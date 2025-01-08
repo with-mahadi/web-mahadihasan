@@ -1,5 +1,5 @@
 <p align="center"><img width="100%" src="./github-banner.gif"></p>
-<h1 align="center">👋Greetings! I'm Mahadi Hasan, a passionate Full Stack Developer, and computer science enthusiast.👋</h1>
+<h1 align="center">👋Greetings! I'm Mahadi Hasan, a passionate Frontend Developer, and computer science enthusiast.👋</h1>
 <h3 align="center">I love creating beautiful web solutions and sharing my coding knowledge. I'm always learning new tech and staying ahead. Let's connect and innovate together! 🚀👨‍💻🚀👨‍💻</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/fe086c2ef424237370351f475e7218ca9cf61b71860ed7587093fd291d8788f4/68747470733a2f2f696d672e6672656570696b2e636f6d2f7072656d69756d2d766563746f722f636172746f6f6e2d6d616e2d776f726b696e672d686f6d652d6d616e2d667265656c616e636572732d776f726b696e672d6c6170746f702d636f6d70757465722d686f6d652d696c6c757374726174696f6e5f3136323738362d39312e6a70673f773d373430"/>
 
