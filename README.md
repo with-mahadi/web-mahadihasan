@@ -8,6 +8,7 @@
 <p align="left"> <a href="https://twitter.com/mehedih96935415" target="blank"><img src="https://img.shields.io/twitter/follow/mehedih96935415?logo=twitter&style=for-the-badge" alt="mehedih96935415" /></a> </p>
 
 - 🌱 I’m currently learning **React, Node.js, MongoDB, Django**
+- 🌱 I’m currently Exploring **NextJs & Typescript**
 
 - 👯 I’m looking to collaborate on **github.com**
 
