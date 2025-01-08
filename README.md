@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/web-mahadihasan](https://github.com/web-mahadihasan)
 
-- 💬 Ask me about **JavaScript, Python, MySql, Tailwind**
+- 💬 Ask me about **JavaScript, React, NextJs, Tailwind, MongoDB**
 
 - 📫 How to reach me **mehedihasanmilu7@gmail.com**
 
