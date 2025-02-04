@@ -34,13 +34,13 @@ I specialize in crafting dynamic, scalable, and user-friendly applications using
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=web-mahadihasan&label=Profile%20views&color=0e75b6&style=flat" alt="web-mahadihasan" /> </p>
 
 
-##### - 🌱 I’m currently Exploring **Typescript & Python & MySql**
-##### - 👨‍💻 All of my projects are available at [https://github.com/web-mahadihasan](https://github.com/web-mahadihasan)
-##### - 💬 Ask me about **JavaScript, React, NextJs, Tailwind, MongoDB**
-##### - 🎯 Goals: Become a full-stack developer and build web apps that solve real problems.
-##### - 📫 How to reach me **mehedihasanmilu7@gmail.com**
-##### - 📄 Know more about me [https://dev-mahadi-hasan.vercel.app/)
-##### - ⚡ Fun fact: **Coding with fun and love video games**
+#### - 🌱 I’m currently Exploring **Typescript & Python & MySql**
+#### - 👨‍💻 All of my projects are available at [https://github.com/web-mahadihasan](https://github.com/web-mahadihasan)
+#### - 💬 Ask me about **JavaScript, React, NextJs, Tailwind, MongoDB**
+#### - 🎯 Goals: Become a full-stack developer and build web apps that solve real problems.
+#### - 📫 How to reach me **mehedihasanmilu7@gmail.com**
+#### - 📄 Know more about me [https://dev-mahadi-hasan.vercel.app/)
+#### - ⚡ Fun fact: **Coding with fun and love video games**
 
 
 <h2 align="left">Areas of Expertise 🌟</h2>
