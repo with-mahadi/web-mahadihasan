@@ -1,4 +1,4 @@
-<p align="center"><img width="100%" src="./github-banner.gif"></p>
+<p align="center"><img width="100%" height="300px" src="./github-banner.gif"></p>
 <h1 align="center" style="font-size: 50px;">Hi! 👋 I'm Mahadi Hasan</h1>
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?color=6FDA44&size=36&center=true&vCenter=true&width=1000&height=50&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Frontend+Developer;I'm+a+MERN+Stack+Developer">
@@ -12,11 +12,14 @@
    <a href="https://www.hackerrank.com/@mehedihasanmilu7" target="_blank">
     <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
   </a>
-  <a href="https://www.hackerrank.com/@mehedihasanmilu7" target="_blank">
-    <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
+  <a href="https://codeforces.com/profile/dev.mahadi%20hasan" target="_blank">
+    <img alt="HackerRank" src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=HackerRank&logoColor=white">
   </a>
+   <a href="https://www.leetcode.com/web-mahadihasan" target="_blank">
+    <img alt="HackerRank" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=HackerRank&logoColor=white">
+  </a>
+  
 <h2></h2>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/fe086c2ef424237370351f475e7218ca9cf61b71860ed7587093fd291d8788f4/68747470733a2f2f696d672e6672656570696b2e636f6d2f7072656d69756d2d766563746f722f636172746f6f6e2d6d616e2d776f726b696e672d686f6d652d6d616e2d667265656c616e636572732d776f726b696e672d6c6170746f702d636f6d70757465722d686f6d652d696c6c757374726174696f6e5f3136323738362d39312e6a70673f773d373430"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=web-mahadihasan&label=Profile%20views&color=0e75b6&style=flat" alt="web-mahadihasan" /> </p>
 
@@ -36,16 +39,6 @@
 
 - ⚡ Fun fact **Coding with fun**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/web-mahadihasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="web-mahadihasan" height="30" width="40" /></a>
-<a href="https://twitter.com/mehedih96935415" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mehedih96935415" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mahadi-hasan-481210147/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahadi-hasan-481210147/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/mehedi.hasan_0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mehedi.hasan_0/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@mehedihasanmilu7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@mehedihasanmilu7" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/dev.mahadi%20hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="dev.mahadi%20hasan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/web-mahadihasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="web-mahadihasan" height="30" width="40" /></a>
-</p>
 
 <h2 align="left">Areas of Expertise 🌟</h2>
 
