@@ -1,4 +1,4 @@
-<p align="center"><img width="100%" height="300px" src="./banner.png"></p>
+<p align="center"><img width="100%" height="290px" src="./banner.png"></p>
 <!--<h1 align="center" style="font-size: 50px;">Hi! 👋 I'm Mahadi Hasan</h1>-->
 <h1></h1>
 <div align="center">
@@ -6,7 +6,13 @@
 </div>
 <h2></h2>
 
-<p>I love creating beautiful web solutions and sharing my coding knowledge. I'm always learning new tech and staying ahead. Let's connect and innovate together! 🚀👨‍💻🚀👨‍💻</p>
+I specialize in crafting dynamic, scalable, and user-friendly applications using React, Next.js, Node.js, Express.js, and MongoDB. With a strong foundation in JavaScript and a love for learning cutting-edge technologies, I’m always striving to innovate and create impactful digital experiences.
+
+### 💡 What I enjoy:
+- Developing responsive and performant web apps 🌐
+- Solving real-world problems with clean, efficient code ✨
+- Sharing knowledge and collaborating to build something extraordinary 💡
+<p>🚀 Let’s connect, collaborate, and innovate together! 🚀👨‍💻</p>
 <a href="https://www.linkedin.com/in/mahadihasan7/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
@@ -19,26 +25,22 @@
    <a href="https://www.leetcode.com/web-mahadihasan" target="_blank">
     <img alt="HackerRank" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=HackerRank&logoColor=white">
   </a>
+<a href="https://dev-mahadi-hasan.vercel.app/" target="_blank">
+  <img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-0072B1?style=for-the-badge&logo=GitHub-Pages&logoColor=white">
+</a> 
   
 <h2></h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=web-mahadihasan&label=Profile%20views&color=0e75b6&style=flat" alt="web-mahadihasan" /> </p>
 
 
-- 🌱 I’m currently learning **React, Node.js, MongoDB, Django**
-- 🌱 I’m currently Exploring **NextJs & Typescript**
-
-- 👯 I’m looking to collaborate on **github.com**
-
-- 👨‍💻 All of my projects are available at [https://github.com/web-mahadihasan](https://github.com/web-mahadihasan)
-
-- 💬 Ask me about **JavaScript, React, NextJs, Tailwind, MongoDB**
-
-- 📫 How to reach me **mehedihasanmilu7@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZoXQF0kHwfFK82PYt76AYeQgx8CKs5GB/view?usp=sharing](https://drive.google.com/file/d/1ZoXQF0kHwfFK82PYt76AYeQgx8CKs5GB/view?usp=sharing)
-
-- ⚡ Fun fact **Coding with fun**
+##### - 🌱 I’m currently Exploring **Typescript & Python & MySql**
+##### - 👨‍💻 All of my projects are available at [https://github.com/web-mahadihasan](https://github.com/web-mahadihasan)
+##### - 💬 Ask me about **JavaScript, React, NextJs, Tailwind, MongoDB**
+##### - 🎯 Goals: Become a full-stack developer and build web apps that solve real problems.
+##### - 📫 How to reach me **mehedihasanmilu7@gmail.com**
+##### - 📄 Know more about me [https://dev-mahadi-hasan.vercel.app/)
+##### - ⚡ Fun fact: **Coding with fun and love video games**
 
 
 <h2 align="left">Areas of Expertise 🌟</h2>
