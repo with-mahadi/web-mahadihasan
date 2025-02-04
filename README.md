@@ -90,25 +90,14 @@
 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />|    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />|    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />|   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />| 
 |--|--|--|--|
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />|    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />|  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />|  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />|    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />|  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
 
 
 </div>
 
 ###
 
-<h4 align="left">Additional Technologies</h4>
 
-###
-
-<div align="left">
-
-   <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />|      <img src="https://cdn.simpleicons.org/woocommerce/96588A" height="40" alt="woocommerce logo"  />
-|--|--|
-
-</div>
-
-###
 
 <h2 align="left">My GitHub Stats</h2>
 
