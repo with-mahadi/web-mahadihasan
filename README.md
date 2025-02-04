@@ -146,8 +146,8 @@ I specialize in crafting dynamic, scalable, and user-friendly applications using
 ###
 
 <div align="left">
-  <img src="https://web-mahadihasan-streak-stats.vercel.app?user==web-mahadihasan&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="170" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=web-mahadihasan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="170" alt="languages graph"  /> <br/>
+  <img src="https://web-mahadihasan-streak-stats.vercel.app?user==web-mahadihasan&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="170" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=web-mahadihasan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2&title_color=D3D3D3&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" height="170" alt="languages graph"  /> <br/>
   
  <picture>
   <source
