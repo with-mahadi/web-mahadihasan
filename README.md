@@ -97,16 +97,18 @@
 
 ###
 
-<h4 align="left">Currently Exploring</h4>
+
+<h2 align="left">Currently Exploring</h2>
 
 ###
 
 <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />|
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </div>
 
 ###
+
 
 <h2 align="left">My GitHub Stats</h2>
 
