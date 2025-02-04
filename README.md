@@ -60,7 +60,7 @@
 </div>
 
 ###
-
+<!---LIbraries-->
 <h4 align="left">Libraries and Frameworks</h4>
 
 ###
@@ -76,7 +76,7 @@
 
 
 ###
-
+<!---Infrastruture mastery-->
 <h4 align="left">Infrastructure Mastery 🏗️</h4>
 
 ###
@@ -90,7 +90,7 @@
 </div>
 
 ###
-
+<!---My tech toolkit-->
 <h4 align="left">My Tech Toolkit 🧰</h4>
 
 ###
@@ -104,7 +104,7 @@
 </div>
 
 ###
-
+<!---Currently Exploring-->
 <h4 align="left">Currently Exploring</h4>
 
 ###
@@ -117,8 +117,28 @@
 </div>
 
 ###
+<!---contact section-->
+<h2 align="left">Contact With Me</h2>
 
+###
 
+<div align="left">
+  <a href="https://www.linkedin.com/in/mahadihasan7" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.facebook.com/mehedi.hasan.0222/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+  <a href="https://discord.com/mahadi_hasan_1" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://x.com/MeheDiH96935415" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+</div>
+
+###
+<!---Github start-->
 <h2 align="left">My GitHub Stats</h2>
 
 ###
