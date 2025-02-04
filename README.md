@@ -1,11 +1,25 @@
 <p align="center"><img width="100%" src="./github-banner.gif"></p>
-<h1 align="center">👋Greetings! I'm Mahadi Hasan, a passionate Frontend Developer, and computer science enthusiast.👋</h1>
-<h3 align="center">I love creating beautiful web solutions and sharing my coding knowledge. I'm always learning new tech and staying ahead. Let's connect and innovate together! 🚀👨‍💻🚀👨‍💻</h3>
+<h1 align="center" style="font-size: 50px;">Hi! 👋 I'm Mahadi Hasan</h1>
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=6FDA44&size=36&center=true&vCenter=true&width=1000&height=50&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Frontend+Developer;I'm+a+MERN+Stack+Developer">
+</div>
+<h2></h2>
+
+<p>I love creating beautiful web solutions and sharing my coding knowledge. I'm always learning new tech and staying ahead. Let's connect and innovate together! 🚀👨‍💻🚀👨‍💻</p>
+<a href="https://www.linkedin.com/in/mahadihasan7/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+   <a href="https://www.hackerrank.com/@mehedihasanmilu7" target="_blank">
+    <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
+  </a>
+  <a href="https://www.hackerrank.com/@mehedihasanmilu7" target="_blank">
+    <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
+  </a>
+<h2></h2>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/fe086c2ef424237370351f475e7218ca9cf61b71860ed7587093fd291d8788f4/68747470733a2f2f696d672e6672656570696b2e636f6d2f7072656d69756d2d766563746f722f636172746f6f6e2d6d616e2d776f726b696e672d686f6d652d6d616e2d667265656c616e636572732d776f726b696e672d6c6170746f702d636f6d70757465722d686f6d652d696c6c757374726174696f6e5f3136323738362d39312e6a70673f773d373430"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=web-mahadihasan&label=Profile%20views&color=0e75b6&style=flat" alt="web-mahadihasan" /> </p>
 
-<p align="left"> <a href="https://twitter.com/mehedih96935415" target="blank"><img src="https://img.shields.io/twitter/follow/mehedih96935415?logo=twitter&style=for-the-badge" alt="mehedih96935415" /></a> </p>
 
 - 🌱 I’m currently learning **React, Node.js, MongoDB, Django**
 - 🌱 I’m currently Exploring **NextJs & Typescript**
@@ -116,23 +130,43 @@
 ###
 
 <div align="left">
-  <img src="https://web-mahadihasan-streak-stats.vercel.app?user==web-mahadihasan&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-  <img src="https://web-mahadihasan-stats.vercel.app/api/top-langs?username=web-mahadihasan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  /> <br/>
+  <img src="https://web-mahadihasan-streak-stats.vercel.app?user==web-mahadihasan&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="170" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=web-mahadihasan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="170" alt="languages graph"  /> <br/>
   
  <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=web-mahadihasan&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api?username=web-mahadihasan&show_icons=true&theme=dark&title_color=D3D3D3&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"
+    media="(prefers-color-scheme: title_color=D3D3D3&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=web-mahadihasan&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=web-mahadihasan&show_icons=true&title_color=D3D3D3&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=web-mahadihasan&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=web-mahadihasan&show_icons=true&title_color=D3D3D3&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" />
 </picture>
-
 
 </div>
 
 ###
+<!-- Activity Graph card -->
+</br>
+</br>
+<h2>Activity Graph</h2>
+
+![Mahadi's Graph](https://github-readme-activity-graph.vercel.app/graph?username=web-mahadihasan&custom_title=Aman's%20GitHub%20Activity%20Graph&bg_color=0d1017&color=e8edf3&line=e8edf3&point=e8edf3&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+![Static Badge](https://img.shields.io/badge/Thanks%20for%20visiting!-05122A)
+![Static Badge](https://img.shields.io/badge/Star%20%E2%AD%90%20some%20repositories%20you%20find%20helpful!%20-05122A)
+![GitHub followers](https://img.shields.io/github/followers/web-mahadihasan?style=flat&logo=github&color=05122A&labelColor=05122A)
+![Profile Views](https://komarev.com/ghpvc/?username=web-mahadihasan&style=flat&labelolor=05122A&color=05122A)
+
+
+<!-- Animated Line:
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+Activity Graph:
+![Aman's Graph](https://github-readme-activity-graph.vercel.app/graph?username=amangupta143&custom_title=Aman's%20GitHub%20Activity%20Graph&bg_color=0d1017&color=e8edf3&line=e8edf3&point=e8edf3&area_color=FFFFFF&title_color=FFFFFF&area=true)
+ -->
 
