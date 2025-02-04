@@ -40,8 +40,11 @@
 
 ###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=web-mahadihasan&show_icons=true&locale=en&layout=compact" alt="web-mahadihasan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=web-mahadihasan&" alt="web-mahadihasan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=web-mahadihasan&show_icons=true&locale=en" alt="web-mahadihasan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=web-mahadihasan&" alt="web-mahadihasan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=web-mahadihasan&show_icons=true&locale=en&layout=compact" alt="web-mahadihasan" /></p>
+
+
+
