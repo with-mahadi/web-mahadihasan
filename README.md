@@ -146,7 +146,7 @@
 </br>
 <h2>Activity Graph</h2>
 
-![Mahadi's Graph](https://github-readme-activity-graph.vercel.app/graph?username=web-mahadihasan&custom_title=Aman's%20GitHub%20Activity%20Graph&bg_color=0d1017&color=e8edf3&line=e8edf3&point=e8edf3&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Mahadi's Graph](https://github-readme-activity-graph.vercel.app/graph?username=web-mahadihasan&custom_title=Mahadi's%20GitHub%20Activity%20Graph&bg_color=0d1017&color=e8edf3&line=e8edf3&point=e8edf3&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
@@ -156,10 +156,10 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=web-mahadihasan&style=flat&labelolor=05122A&color=05122A)
 
 
-Animated Line:
+<!--Animated Line:
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 Activity Graph:
 ![Aman's Graph](https://github-readme-activity-graph.vercel.app/graph?username=amangupta143&custom_title=Aman's%20GitHub%20Activity%20Graph&bg_color=0d1017&color=e8edf3&line=e8edf3&point=e8edf3&area_color=FFFFFF&title_color=FFFFFF&area=true)
- 
+ -->
 
