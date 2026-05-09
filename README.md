@@ -157,7 +157,7 @@ I’m open to collaborating on:
 <br>
 
 <a href="https://dev-mahadi-hasan.vercel.app">
-  <img src="https://img.shields.io/badge/Personal%20Website-dev-mahadi-hasan.vercel.app-36BCF7?style=for-the-badge&logo=google-chrome" alt="Personal website link">
+  <img src="https://img.shields.io/badge/Personal%20Website_dev-mahadi-hasan.vercel.app-36BCF7?style=for-the-badge&logo=google-chrome" alt="Personal website link">
 </a>
 <br><br>
 
