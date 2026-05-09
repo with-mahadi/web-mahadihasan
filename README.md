@@ -14,10 +14,16 @@ I'm a full-stack developer currently working as a Software Engineer at **$\color
 
 <!-- and right now, I'm really enjoying learning **Python**, **PostgreSQL** and **Prisma** to expand my skill set. -->
 
-### 💡 What I enjoy:
-- Developing responsive and performant web apps 🌐
-- Solving real-world problems with clean, efficient code ✨
-- Sharing knowledge and collaborating to build something extraordinary 💡
+## 🌱 **What I'm Currently Up To**
+
+- 🔥 Learning **Full Stack development** at **Programming Hero Level Two**.
+- 📚 I'm currently exploring **Python**, **PostgreSQL** and **Prisma** to expand my backend skill set.
+- 💡 Exploring **full-stack development** and backend technologies like **Node.js** and **Express.js**.
+- 🎯 Goal: Become a Full-Stack Developer by 2025
+- 👀 Actively seeking my next adventure as a Full Stack developer!
+
+---
+
 <p>🚀 Let’s connect, collaborate, and innovate together! 🚀👨‍💻</p>
 <a href="https://www.linkedin.com/in/mahadihasan7/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
