@@ -24,6 +24,7 @@ I'm a full-stack developer currently working as a Software Engineer at **$\color
 - 🎯 Goal: Become a Full-Stack Developer by 2026
 - 👀 Actively seeking my next adventure as a Full Stack developer!
 
+[![divider_twin_serpant](https://raw.githubusercontent.com/with-mahadi/readme-ux-kit/refs/heads/main/assets/dividers/animated/lines/divider_neon_center_dot.svg)](https://github.com/with-mahadi)
 
 <!-- https://img.shields.io/badge/Shopify%20App-E10098?logo=shopify&logoColor=white -->
 
