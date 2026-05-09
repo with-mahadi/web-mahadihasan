@@ -102,7 +102,7 @@ I'm a full-stack developer currently working as a Software Engineer at **$\color
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=with-mahadi&theme=radical" alt="GitHub profile contribution summary" />
 </p>
 
-###📊 Statistics
+### 📈 Statistics
 <!-- Divider  -->
 [![divider_twin_serpant](https://github.com/with-mahadi/readme-ux-kit/raw/refs/heads/main/assets/dividers/animated/lines/divider_neon_center_dot.svg)](https://github.com/with-mahadi)
 
