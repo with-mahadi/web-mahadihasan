@@ -198,8 +198,8 @@ I'm a full-stack developer currently working as a Software Engineer at **$\color
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=with-mahadi&theme=radical" alt="GitHub profile contribution summary" />
 </p>
 
- <p align="center>
- 
+<p align="center">
+
 ![Static Badge](https://img.shields.io/badge/Thanks%20for%20visiting!-05122A)
 ![Static Badge](https://img.shields.io/badge/Star%20%E2%AD%90%20some%20repositories%20you%20find%20helpful!%20-05122A)
 ![GitHub followers](https://img.shields.io/github/followers/with-mahadi?style=flat&logo=github&color=05122A&labelColor=05122A)
@@ -210,8 +210,8 @@ I'm a full-stack developer currently working as a Software Engineer at **$\color
 [![divider_twin_serpant](https://raw.githubusercontent.com/with-mahadi/readme-ux-kit/refs/heads/main/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/with-mahadi)
 
 <!-- Activity Graph card -->
-</br>
-</br>
+<!-- </br>
+</br> -->
 <h2>📊 Statistics</h2>
 
 ![Mahadi's Graph](https://github-readme-activity-graph.vercel.app/graph?username=with-mahadi&custom_title=Mahadi's%20GitHub%20Activity%20Graph&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&area_color=00abf0&area=true&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph)
