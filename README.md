@@ -169,7 +169,7 @@ I specialize in crafting dynamic, scalable, and user-friendly applications using
 </br>
 <h2>>📊 Statistics</h2>
 
-![Mahadi's Graph](https://github-readme-activity-graph.vercel.app/graph?username=with-mahadi&custom_title=Mahadi's%20GitHub%20Activity%20Graph&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=e8edf3&point=e8edf3&area_color=FFFFFF&area=true&hide_border=true)
+![Mahadi's Graph](https://github-readme-activity-graph.vercel.app/graph?username=with-mahadi&custom_title=Mahadi's%20GitHub%20Activity%20Graph&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=e8edf3&point=e8edf3&area_color=00abf0&area=true&hide_border=true&custom_title=Contribution⠀Graph)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
