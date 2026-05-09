@@ -178,7 +178,9 @@ I’m open to collaborating on:
 [![divider_twin_serpant](https://github.com/with-mahadi/readme-ux-kit/raw/refs/heads/main/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/hiradEmami)
 <!-- Collaboration part start  -->
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<!-- <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> -->
+
+[![divider_twin_serpant](https://github.com/with-mahadi/readme-ux-kit/raw/refs/heads/main/assets/dividers/animated/unique_effects/divider_data_capsul.svg)](https://github.com/with-mahadi)
 
 <!-- ![Static Badge](https://img.shields.io/badge/Thanks%20for%20visiting!-05122A)
 ![Static Badge](https://img.shields.io/badge/Star%20%E2%AD%90%20some%20repositories%20you%20find%20helpful!%20-05122A)
