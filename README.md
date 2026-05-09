@@ -209,7 +209,7 @@ I’m open to collaborating on:
   <img alt="Code Forces" src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=code-forces&logoColor=white">
 </a>
 <a href="https://www.leetcode.com/with-mahadi" target="_blank">
-  <img alt="Leet Code" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leet-code&logoColor=white">
+  <img alt="Leet Code" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white">
 </a>
 <a href="https://dev-mahadi-hasan.vercel.app/" target="_blank">
   <img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-0072B1?style=for-the-badge&logo=google-chrome&logoColor=white">
