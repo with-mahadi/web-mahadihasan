@@ -185,6 +185,7 @@ I'm a full-stack developer currently working as a Software Engineer at **$\color
 </picture>
 
 </div> -->
+[![divider_twin_serpant](https://raw.githubusercontent.com/with-mahadi/readme-ux-kit/refs/heads/main/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/with-mahadi)
 
 ### 📊 My GitHub Stats
 
@@ -207,8 +208,6 @@ I'm a full-stack developer currently working as a Software Engineer at **$\color
 
 [![divider_twin_serpant](https://raw.githubusercontent.com/with-mahadi/readme-ux-kit/refs/heads/main/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/with-mahadi)
 
-
-###
 <!-- Activity Graph card -->
 </br>
 </br>
