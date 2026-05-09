@@ -187,19 +187,23 @@ I’m open to collaborating on:
 ![GitHub followers](https://img.shields.io/github/followers/with-mahadi?style=flat&logo=github&color=05122A&labelColor=05122A)
 ![Profile Views](https://komarev.com/ghpvc/?username=with-mahadi&style=flat&labelolor=05122A&color=05122A) -->
 
-<p>🚀 Let’s connect, collaborate, and innovate together! 🚀👨‍💻</p>
+### 📫 Let’s connect, innovate together! 🚀👨‍💻
+
+- **Email**: [shakib97itis@gmail.com](mailto:shakib97itis@gmail.com)
+- **LinkedIn**: [https://www.linkedin.com/in/shakib97itis](https://www.linkedin.com/in/shakib97itis)
+
 <a href="https://www.linkedin.com/in/mahadihasan7/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-   <a href="https://www.hackerrank.com/@mehedihasanmilu7" target="_blank">
-    <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
-  </a>
-  <a href="https://codeforces.com/profile/dev.mahadi%20hasan" target="_blank">
-    <img alt="HackerRank" src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=HackerRank&logoColor=white">
-  </a>
-   <a href="https://www.leetcode.com/with-mahadi" target="_blank">
-    <img alt="HackerRank" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=HackerRank&logoColor=white">
-  </a>
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://www.hackerrank.com/@mehedihasanmilu7" target="_blank">
+  <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
+</a>
+<a href="https://codeforces.com/profile/dev.mahadi%20hasan" target="_blank">
+  <img alt="HackerRank" src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=HackerRank&logoColor=white">
+</a>
+<a href="https://www.leetcode.com/with-mahadi" target="_blank">
+  <img alt="HackerRank" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=HackerRank&logoColor=white">
+</a>
 <a href="https://dev-mahadi-hasan.vercel.app/" target="_blank">
   <img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-0072B1?style=for-the-badge&logo=GitHub-Pages&logoColor=white">
 </a>
@@ -207,11 +211,3 @@ I’m open to collaborating on:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100" alt="Profile footer wave"/>
 </p>
-
-<!--Animated Line:
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-Activity Graph:
-![Aman's Graph](https://github-readme-activity-graph.vercel.app/graph?username=amangupta143&custom_title=Aman's%20GitHub%20Activity%20Graph&bg_color=0d1017&color=e8edf3&line=e8edf3&point=e8edf3&area_color=FFFFFF&title_color=FFFFFF&area=true)
- -->
-
