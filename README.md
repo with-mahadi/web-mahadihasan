@@ -177,12 +177,12 @@ I’m open to collaborating on:
 
 [![divider_twin_serpant](https://github.com/with-mahadi/readme-ux-kit/raw/refs/heads/main/assets/dividers/static/divider_center_diamond.svg)](https://github.com/hiradEmami)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mahadihasan7" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" /></a>&nbsp;
-  <a href="https://www.facebook.com/mehedi.hasan.0222/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo" /></a>&nbsp;
-  <a href="https://discord.com/mahadi_hasan_1" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" /></a>&nbsp;
-  <a href="https://x.com/MeheDiH96935415" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" /></a>
-</p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/mahadihasan7"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" /></a>
+  <a href="https://www.facebook.com/mehedi.hasan.0222/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="45" /></a>
+  <a href="https://discord.com/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="45" /></a>
+  <a href="https://x.com/MeheDiH96935415"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="45" /></a>
+</div>
 
 </td>
 
