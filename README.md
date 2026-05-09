@@ -1,10 +1,10 @@
 <p align="center"><img width="100%" height="280px" src="./download.png"></p>
 <!--<h1 align="center" style="font-size: 50px;">Hi! 👋 I'm Mahadi Hasan</h1>-->
-<h1></h1>
+[![divider_twin_serpant](https://github.com/with-mahadi/readme-ux-kit/raw/refs/heads/main/assets/dividers/animated/unique_effects/divider_data_capsul.svg)](https://github.com/with-mahadi)
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?color=6FDA44&size=36&center=true&vCenter=true&width=1000&height=50&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Frontend+Developer;I'm+a+MERN+Stack+Developer;I'm+a+Next+JS+Developer;I'm+a+React+Developer">
 </div>
-<h2></h2>
+[![divider_twin_serpant](https://github.com/with-mahadi/readme-ux-kit/raw/refs/heads/main/assets/dividers/animated/unique_effects/divider_data_capsul.svg)](https://github.com/with-mahadi)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=with-mahadi&label=Profile%20views&color=0e75b6&style=flat" alt="with-mahadi" /> </p>
 
@@ -12,6 +12,7 @@
 
 I'm a full-stack developer currently working as a Software Engineer at **$\color{#0072B1}{Devsnest LLC}$**, where I've spent over a year building and maintaining robust Shopify apps & Next.js projects. I specialize in the **React** and **Node.js** ecosystems, building with tools like **Next.js**, **TypeScript**, **Express**, **Elysia.js**, and **Tailwind CSS**. On the database side, I have strong experience with **MongoDB** and **Mongoose**. I'm always excited to explore new tech and build applications that make an impact. I love building user-friendly, scalable, and interactive web applications that deliver exceptional user experiences.
 
+<br />
 <!-- and right now, I'm really enjoying learning **Python**, **PostgreSQL** and **Prisma** to expand my skill set. -->
 
 ### 🌱 **What I'm Currently Up To**
