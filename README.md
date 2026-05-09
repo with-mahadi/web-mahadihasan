@@ -4,7 +4,7 @@
 [![divider_twin_serpant](https://github.com/with-mahadi/readme-ux-kit/raw/refs/heads/main/assets/dividers/animated/unique_effects/divider_data_capsul.svg)](https://github.com/with-mahadi)
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=6FDA44&size=36&center=true&vCenter=true&width=1000&height=50&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Frontend+Developer;I'm+a+MERN+Stack+Developer;I'm+a+Next+JS+Developer;I'm+a+React+Developer">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=6FDA44&size=36&center=true&vCenter=true&width=1000&height=50&lines=Hi!+I'm+Mahadi+Hasan+👋;Software+Engineer+@+Devsnest+LLC++💻;Full-Stack+Developer+|+MERN+Expert+🌐;Building+Robust+Shopify+Applications+🛍️">
 </div>
 
 [![divider_twin_serpant](https://github.com/with-mahadi/readme-ux-kit/raw/refs/heads/main/assets/dividers/animated/unique_effects/divider_data_capsul.svg)](https://github.com/with-mahadi)
