@@ -164,7 +164,7 @@ I'm a full-stack developer currently working as a Software Engineer at **$\color
 
 ###
 <!---Github start-->
-<h2 align="left">My GitHub Stats</h2>
+<!-- <h2 align="left">My GitHub Stats</h2>
 
 ###
 
@@ -184,7 +184,29 @@ I'm a full-stack developer currently working as a Software Engineer at **$\color
   <img src="https://github-readme-stats.vercel.app/api?username=with-mahadi&show_icons=true&title_color=D3D3D3&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" />
 </picture>
 
-</div>
+</div> -->
+
+### 📊 My GitHub Stats
+
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=with-mahadi&theme=radical" alt="Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=with-mahadi&theme=radical" alt="GitHub profile contribution summary" />
+</p>    
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=with-mahadi&label=PROFILE%20VIEWS&color=36BCF7&style=flat-square" alt="Views" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code%20Time-3817%20hrs%2020%20mins-blue?style=flat" alt="Views" />
+</p>
+
+[![divider_twin_serpant](https://raw.githubusercontent.com/with-mahadi/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/with-mahadi)
+
 
 ###
 <!-- Activity Graph card -->
