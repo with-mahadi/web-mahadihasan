@@ -203,13 +203,13 @@ I’m open to collaborating on:
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="https://www.hackerrank.com/@mehedihasanmilu7" target="_blank">
-  <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
+  <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=Hacker-Rank&logoColor=white">
 </a>
 <a href="https://codeforces.com/profile/dev.mahadi%20hasan" target="_blank">
-  <img alt="HackerRank" src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=HackerRank&logoColor=white">
+  <img alt="Code Forces" src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=code-forces&logoColor=white">
 </a>
 <a href="https://www.leetcode.com/with-mahadi" target="_blank">
-  <img alt="HackerRank" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=HackerRank&logoColor=white">
+  <img alt="Leet Code" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leet-code&logoColor=white">
 </a>
 <a href="https://dev-mahadi-hasan.vercel.app/" target="_blank">
   <img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-0072B1?style=for-the-badge&logo=google-chrome&logoColor=white">
