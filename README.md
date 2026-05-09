@@ -101,6 +101,10 @@ I'm a full-stack developer currently working as a Software Engineer at **$\color
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=with-mahadi&theme=radical" alt="GitHub profile contribution summary" />
 </p>
 
+<h2>📊 Statistics</h2>
+
+![Mahadi's Graph](https://github-readme-activity-graph.vercel.app/graph?username=with-mahadi&custom_title=Mahadi's%20GitHub%20Activity%20Graph&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&area_color=00abf0&area=true&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph)
+
 <p align="center">
 
   <img src="https://img.shields.io/badge/Thanks%20for%20visiting!-05122A" alt="Static Badge" />
@@ -115,9 +119,6 @@ I'm a full-stack developer currently working as a Software Engineer at **$\color
 <!-- Activity Graph card -->
 <!-- </br>
 </br> -->
-<h2>📊 Statistics</h2>
-
-![Mahadi's Graph](https://github-readme-activity-graph.vercel.app/graph?username=with-mahadi&custom_title=Mahadi's%20GitHub%20Activity%20Graph&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&area_color=00abf0&area=true&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph)
 
 <!-- Collaboration part start  -->
 
@@ -134,11 +135,13 @@ I'm a full-stack developer currently working as a Software Engineer at **$\color
 I’m open to collaborating on:
 
 <ul>
-  <li>ML infrastructure projects</li>
-  <li>Reinforcement learning systems</li>
-  <li>Robotics & autonomous systems</li>
-  <li>Large-scale AI platforms</li>
+  <li><strong>Scalable Full-Stack Systems</strong></li>
+  <li><strong>High-Performance Frontends task</strong></li>
+  <li><strong>MERN Stack web application</strong></li>
+  <li><strong>Custom Shopify Apps</strong></li>
+  <li><strong>Freelance & Startup Projects</strong></li>
 </ul>
+
 
 </td>
 
@@ -180,7 +183,6 @@ I’m open to collaborating on:
 
 <!-- <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> -->
 
-[![divider_twin_serpant](https://github.com/with-mahadi/readme-ux-kit/raw/refs/heads/main/assets/dividers/animated/unique_effects/divider_data_capsul.svg)](https://github.com/with-mahadi)
 
 <!-- ![Static Badge](https://img.shields.io/badge/Thanks%20for%20visiting!-05122A)
 ![Static Badge](https://img.shields.io/badge/Star%20%E2%AD%90%20some%20repositories%20you%20find%20helpful!%20-05122A)
@@ -188,6 +190,8 @@ I’m open to collaborating on:
 ![Profile Views](https://komarev.com/ghpvc/?username=with-mahadi&style=flat&labelolor=05122A&color=05122A) -->
 
 ### 📫 Let’s connect, innovate together! 🚀👨‍💻
+<!-- divider  -->
+[![divider_twin_serpant](https://github.com/with-mahadi/readme-ux-kit/raw/refs/heads/main/assets/dividers/animated/unique_effects/divider_data_capsul.svg)](https://github.com/with-mahadi)
 
 - **Email**: [shakib97itis@gmail.com](mailto:shakib97itis@gmail.com)
 - **LinkedIn**: [https://www.linkedin.com/in/shakib97itis](https://www.linkedin.com/in/shakib97itis)
