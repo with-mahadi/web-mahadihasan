@@ -205,7 +205,7 @@ I'm a full-stack developer currently working as a Software Engineer at **$\color
   <img src="https://img.shields.io/badge/Code%20Time-3817%20hrs%2020%20mins-blue?style=flat" alt="Views" />
 </p>
 
-[![divider_twin_serpant](https://raw.githubusercontent.com/with-mahadi/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/with-mahadi)
+[![divider_twin_serpant](https://raw.githubusercontent.com/with-mahadi/readme-ux-kit/refs/heads/main/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/with-mahadi)
 
 
 ###
