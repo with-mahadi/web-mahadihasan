@@ -9,7 +9,6 @@
 
 [![divider_twin_serpant](https://github.com/with-mahadi/readme-ux-kit/raw/refs/heads/main/assets/dividers/animated/unique_effects/divider_data_capsul.svg)](https://github.com/with-mahadi)
 
-
 ### 🚀 **About me**
 
 I'm a full-stack developer currently working as a Software Engineer at **$\color{#0072B1}{Devsnest LLC}$**, where I've spent over a year building and maintaining robust Shopify apps & Next.js projects. I specialize in the **React** and **Node.js** ecosystems, building with tools like **Next.js**, **TypeScript**, **Express**, **Elysia.js**, and **Tailwind CSS**. On the database side, I have strong experience with **MongoDB** and **Mongoose**. I'm always excited to explore new tech and build applications that make an impact. I love building user-friendly, scalable, and interactive web applications that deliver exceptional user experiences.
