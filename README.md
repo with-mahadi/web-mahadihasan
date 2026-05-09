@@ -6,7 +6,11 @@
 </div>
 <h2></h2>
 
-I specialize in crafting dynamic, scalable, and user-friendly applications using React, Next.js, Node.js, Express.js, and MongoDB. With a strong foundation in JavaScript and a love for learning cutting-edge technologies, I’m always striving to innovate and create impactful digital experiences.
+### 🚀 **About me**
+
+I'm a full-stack developer currently working as a Software Engineer at **Devsnest LLC**, where I've spent over a year building and maintaining robust Shopify apps & Next.js projects. I specialize in the **React** and **Node.js** ecosystems, building with tools like **Next.js**, **TypeScript**, **Express**, **Elysia.js**, and **Tailwind CSS**. On the database side, I have strong experience with **MongoDB** and **Mongoose**. I'm always excited to explore new tech and build applications that make an impact. I love building user-friendly, scalable, and interactive web applications that deliver exceptional user experiences.
+
+<!-- and right now, I'm really enjoying learning **Python**, **PostgreSQL** and **Prisma** to expand my skill set. -->
 
 ### 💡 What I enjoy:
 - Developing responsive and performant web apps 🌐
