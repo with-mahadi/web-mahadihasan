@@ -56,7 +56,7 @@ I'm a full-stack developer currently working as a Software Engineer at **$\color
 
 <!-- https://img.shields.io/badge/Shopify%20App-E10098?logo=shopify&logoColor=white -->
 
-## 🛠️ **Tech Stack** *(Evolving)*
+### 🛠️ **Tech Stack** *(Evolving)*
 
 | **Category**       | **Skills/Tools**                                                                                     |
 |---------------------|-----------------------------------------------------------------------------------------------------|
