@@ -200,7 +200,7 @@ I’m open to collaborating on:
 - **LinkedIn**: [https://www.linkedin.com/in/withmahadi](https://www.linkedin.com/in/withmahadi)
 
 <a href="https://www.linkedin.com/in/mahadihasan7/" target="_blank">
-  <img alt="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge&labelColor=0077B5&logoColor=white">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="https://www.hackerrank.com/@mehedihasanmilu7" target="_blank">
   <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
