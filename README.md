@@ -189,12 +189,12 @@ I’m open to collaborating on:
 ![GitHub followers](https://img.shields.io/github/followers/with-mahadi?style=flat&logo=github&color=05122A&labelColor=05122A)
 ![Profile Views](https://komarev.com/ghpvc/?username=with-mahadi&style=flat&labelolor=05122A&color=05122A) -->
 
-### 📫 Let’s connect, innovate together! 🚀👨‍💻
+### 📫 Let’s connect, innovate together! 👨‍💻
 <!-- divider  -->
-[![divider_twin_serpant](https://github.com/with-mahadi/readme-ux-kit/raw/refs/heads/main/assets/dividers/animated/unique_effects/divider_data_capsul.svg)](https://github.com/with-mahadi)
+[![divider_twin_serpant](https://github.com/with-mahadi/readme-ux-kit/raw/refs/heads/main/assets/dividers/animated/lines/divider_breathing_line.svg)](https://github.com/with-mahadi)
 
-- **Email**: [shakib97itis@gmail.com](mailto:shakib97itis@gmail.com)
-- **LinkedIn**: [https://www.linkedin.com/in/shakib97itis](https://www.linkedin.com/in/shakib97itis)
+- **Email**: [mehedihasanmilu7@gmail.com](mailto:mehedihasanmilu@gmail.com)
+- **LinkedIn**: [https://www.linkedin.com/in/withmahadi](https://www.linkedin.com/in/withmahadi)
 
 <a href="https://www.linkedin.com/in/mahadihasan7/" target="_blank">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
