@@ -200,10 +200,10 @@ I'm a full-stack developer currently working as a Software Engineer at **$\color
 
 <p align="center">
 
-![Static Badge](https://img.shields.io/badge/Thanks%20for%20visiting!-05122A)
-![Static Badge](https://img.shields.io/badge/Star%20%E2%AD%90%20some%20repositories%20you%20find%20helpful!%20-05122A)
-![GitHub followers](https://img.shields.io/github/followers/with-mahadi?style=flat&logo=github&color=05122A&labelColor=05122A)
-![Profile Views](https://komarev.com/ghpvc/?username=with-mahadi&style=flat&labelolor=05122A&color=05122A)
+  <img src="https://img.shields.io/badge/Thanks%20for%20visiting!-05122A" alt="Static Badge" />
+  <img src="https://img.shields.io/badge/Star%20%E2%AD%90%20some%20repositories%20you%20find%20helpful!%20-05122A" alt="Static Badge" />
+  <img src="https://img.shields.io/github/followers/with-mahadi?style=flat&logo=github&color=05122A&labelColor=05122A" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=with-mahadi&style=flat&labelolor=05122A&color=05122A" alt="Profile Views" />
 
 </p>
 
