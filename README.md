@@ -191,7 +191,7 @@ I’m open to collaborating on:
 
 ### 📫 Let’s connect, innovate together! 👨‍💻
 <!-- divider  -->
-[![divider_twin_serpant](https://github.com/with-mahadi/readme-ux-kit/raw/refs/heads/main/assets/dividers/animated/lines/divider_breathing_line.svg)](https://github.com/with-mahadi)
+[![divider_twin_serpant](https://github.com/with-mahadi/readme-ux-kit/raw/refs/heads/main/assets/dividers/animated/lines/divider_neon_center_dot.svg)](https://github.com/with-mahadi)
 
 - **Email**: [mehedihasanmilu7@gmail.com](mailto:mehedihasanmilu@gmail.com)
 - **LinkedIn**: [https://www.linkedin.com/in/withmahadi](https://www.linkedin.com/in/withmahadi)
