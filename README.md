@@ -19,7 +19,7 @@ I'm a full-stack developer currently working as a Software Engineer at **$\color
 - 🔥 Learning **Full Stack development** at **Programming Hero Level Two**.
 - 📚 I'm currently exploring **Python**, **PostgreSQL** and **Prisma** to expand my backend skill set.
 - 💡 Exploring **full-stack development** and backend technologies like **Node.js** and **Express.js**.
-- 🎯 Goal: Become a Full-Stack Developer by 2025
+- 🎯 Goal: Become a Full-Stack Developer by 2026
 - 👀 Actively seeking my next adventure as a Full Stack developer!
 
 ---
@@ -39,19 +39,7 @@ I'm a full-stack developer currently working as a Software Engineer at **$\color
   </a>
 <a href="https://dev-mahadi-hasan.vercel.app/" target="_blank">
   <img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-0072B1?style=for-the-badge&logo=GitHub-Pages&logoColor=white">
-</a> 
-
-
-
-
-
-<!-- #### - 🌱 I’m currently Exploring **Typescript & Python & MySql**
-#### - 👨‍💻 All of my projects are available at [https://github.com/with-mahadi](https://github.com/with-mahadi)
-#### - 💬 Ask me about **JavaScript, React, NextJs, Tailwind, MongoDB**
-#### - 🎯 Goals: Become a full-stack developer and build web apps that solve real problems.
-#### - 📫 How to reach me **mehedihasanmilu7@gmail.com**
-#### - 📄 Know more about me [https://dev-mahadi-hasan.vercel.app/)
-#### - ⚡ Fun fact: **Coding with fun and love video games** -->
+</a>
 
 <!-- https://img.shields.io/badge/Shopify%20App-E10098?logo=shopify&logoColor=white -->
 
@@ -68,82 +56,6 @@ I'm a full-stack developer currently working as a Software Engineer at **$\color
 | **Exploring**           | ![Python (Learning)](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-E10098?logo=prisma&logoColor=white) |
 | **Expertise**       | 🧩 **Problem Solving** • 🚀 **Quick Learner** • 📊 **Shopify** (App development & Customization)            |
 
-
-
-<h2 align="left">Areas of Expertise 🌟</h2>
-
-###
-
-<p align="left">These are some of the major technologies that I use or have worked on in the past:</p>
-
-###
-
-<h4 align="left">Programming Languages</h4>
-
-###
-
-<div align="left">
-
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />|  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  /> 
-|--|--|--|
-</div>
-
-###
-<!---LIbraries-->
-<h4 align="left">Libraries and Frameworks</h4>
-
-###
-
-<div align="left">
-
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />|    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />|    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />|   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />|
-|--|--|--|--|
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />|   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />|   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />|  <img src="https://ui.shadcn.com/favicon.ico" height="40" alt="shadcn ui logo"  />
-
-</div>
-
-
-
-###
-<!---Infrastruture mastery-->
-<h4 align="left">Infrastructure Mastery 🏗️</h4>
-
-###
-
-<div align="left">
-
-   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />|    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />|    <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />|   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />|
-|--|--|--|--|
-   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />|   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="40" alt="heroku logo"  />
-
-</div>
-
-###
-<!---My tech toolkit-->
-<h4 align="left">My Tech Toolkit 🧰</h4>
-
-###
-
-<div align="left">
-
-   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />|    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />|    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />|   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />| 
-|--|--|--|--|
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />|    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-
-</div>
-
-###
-<!---Currently Exploring-->
-<h4 align="left">Currently Exploring</h4>
-
-###
-
-<div align="left">
-
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />|      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-|--|--|
-
-</div>
 
 ###
 <!---contact section-->
