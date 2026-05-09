@@ -119,12 +119,71 @@ I'm a full-stack developer currently working as a Software Engineer at **$\color
 
 ![Mahadi's Graph](https://github-readme-activity-graph.vercel.app/graph?username=with-mahadi&custom_title=Mahadi's%20GitHub%20Activity%20Graph&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&area_color=00abf0&area=true&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph)
 
+<!-- Collaboration part start  -->
+
+[![divider_twin_serpant](https://github.com/with-mahadi/readme-ux-kit/raw/refs/heads/main/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/hiradEmami)
+
+<table width="100%" border="0" cellspacing="10" cellpadding="0">
+<tr>
+
+<!-- LEFT: COLLAB -->
+<td width="33%" valign="top">
+
+<h2>🤝 Collaboration</h2>
+
+I’m open to collaborating on:
+
+<ul>
+  <li>ML infrastructure projects</li>
+  <li>Reinforcement learning systems</li>
+  <li>Robotics & autonomous systems</li>
+  <li>Large-scale AI platforms</li>
+</ul>
+
+</td>
+
+<!-- MIDDLE: PANEL -->
+<td width="34%" align="center" valign="middle">
+    <a href="mailto:mehedihasanmilu7@gmail.com">
+        <img src="assets/img/collaboration_panel.svg" width="200px" alt="Collaboration navigation panel" />
+    </a>
+</td>
+
+<!-- RIGHT: CONTACT -->
+<td width="33%" valign="top" align="center">
+
+<h2>📫 Contact</h2>
+
+<br>
+
+<a href="https://dev-mahadi-hasan.vercel.app">
+  <img src="https://img.shields.io/badge/Personal%20Website-hirademami.github.io-36BCF7?style=for-the-badge&logo=google-chrome" alt="Personal website link">
+</a>
+<br><br>
+
+<a href="mailto:mehedihasanmilu7@gmail.com">
+  <img src="https://img.shields.io/badge/email-hirad.alagha@outlook.com-red?style=for-the-badge&logo=gmail" alt="Email contact link">
+</a>
+<br><br>
+
+<a href="https://www.linkedin.com/in/withmahadi/">
+  <img src="https://img.shields.io/badge/linkedin-hirad--alagha-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn profile link">
+</a>
+
+</td>
+
+</tr>
+</table>
+
+[![divider_twin_serpant](https://github.com/with-mahadi/readme-ux-kit/raw/refs/heads/main/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/hiradEmami)
+<!-- Collaboration part start  -->
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-![Static Badge](https://img.shields.io/badge/Thanks%20for%20visiting!-05122A)
+<!-- ![Static Badge](https://img.shields.io/badge/Thanks%20for%20visiting!-05122A)
 ![Static Badge](https://img.shields.io/badge/Star%20%E2%AD%90%20some%20repositories%20you%20find%20helpful!%20-05122A)
 ![GitHub followers](https://img.shields.io/github/followers/with-mahadi?style=flat&logo=github&color=05122A&labelColor=05122A)
-![Profile Views](https://komarev.com/ghpvc/?username=with-mahadi&style=flat&labelolor=05122A&color=05122A)
+![Profile Views](https://komarev.com/ghpvc/?username=with-mahadi&style=flat&labelolor=05122A&color=05122A) -->
 
 <p>🚀 Let’s connect, collaborate, and innovate together! 🚀👨‍💻</p>
 <a href="https://www.linkedin.com/in/mahadihasan7/" target="_blank">
