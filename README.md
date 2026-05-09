@@ -175,7 +175,25 @@ I’m open to collaborating on:
 <a href="https://www.linkedin.com/in/withmahadi/">
   <img src="https://img.shields.io/badge/linkedin-withmahadi-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn profile link">
 </a>
+<!-- Or contact with  -->
+<!-- Divider  -->
 
+[![divider_twin_serpant](https://github.com/with-mahadi/readme-ux-kit/raw/refs/heads/main/assets/dividers/static/divider_center_diamond.svg)](https://github.com/hiradEmami)
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mahadihasan7" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.facebook.com/mehedi.hasan.0222/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+  <a href="https://discord.com/mahadi_hasan_1" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://x.com/MeheDiH96935415" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+</p>
 </td>
 
 </tr>
