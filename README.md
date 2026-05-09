@@ -167,7 +167,7 @@ I specialize in crafting dynamic, scalable, and user-friendly applications using
 <!-- Activity Graph card -->
 </br>
 </br>
-<h2>>📊 Statistics</h2>
+<h2>📊 Statistics</h2>
 
 ![Mahadi's Graph](https://github-readme-activity-graph.vercel.app/graph?username=with-mahadi&custom_title=Mahadi's%20GitHub%20Activity%20Graph&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&area_color=00abf0&area=true&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph)
 
