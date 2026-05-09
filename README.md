@@ -9,7 +9,6 @@
 
 [![divider_twin_serpant](https://github.com/with-mahadi/readme-ux-kit/raw/refs/heads/main/assets/dividers/animated/unique_effects/divider_data_capsul.svg)](https://github.com/with-mahadi)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=with-mahadi&label=Profile%20views&color=0e75b6&style=flat" alt="with-mahadi" /> </p>
 
 ### 🚀 **About me**
 
