@@ -40,8 +40,7 @@ I'm a full-stack developer currently working as a Software Engineer at **$\color
 <a href="https://dev-mahadi-hasan.vercel.app/" target="_blank">
   <img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-0072B1?style=for-the-badge&logo=GitHub-Pages&logoColor=white">
 </a> 
-  
-[![divider_twin_serpant](https://raw.githubusercontent.com/with-mahadi/readme-ux-kit/refs/heads/main/assets/dividers/animated/lines/divider_neon_center_dot.svg)](https://github.com/with-mahadi)
+
 
 
 
@@ -57,6 +56,8 @@ I'm a full-stack developer currently working as a Software Engineer at **$\color
 <!-- https://img.shields.io/badge/Shopify%20App-E10098?logo=shopify&logoColor=white -->
 
 ### 🛠️ **Tech Stack** *(Evolving)*
+<!-- divider  -->
+[![divider_twin_serpant](https://raw.githubusercontent.com/with-mahadi/readme-ux-kit/refs/heads/main/assets/dividers/animated/lines/divider_neon_center_dot.svg)](https://github.com/with-mahadi)
 
 | **Category**       | **Skills/Tools**                                                                                     |
 |---------------------|-----------------------------------------------------------------------------------------------------|
