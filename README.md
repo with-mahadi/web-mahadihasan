@@ -24,7 +24,7 @@ I'm a full-stack developer currently working as a Software Engineer at **$\color
 - 🎯 Goal: Become a Full-Stack Developer by 2026
 - 👀 Actively seeking my next adventure as a Full Stack developer!
 
-
+<br/>
 <!-- https://img.shields.io/badge/Shopify%20App-E10098?logo=shopify&logoColor=white -->
 
 ### 🛠️ **Tech Stack** *(Evolving)*
