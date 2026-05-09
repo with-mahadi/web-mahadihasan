@@ -44,8 +44,6 @@ I'm a full-stack developer currently working as a Software Engineer at **$\color
 | **Expertise**       | 🧩 **Problem Solving** • 🚀 **Quick Learner** • 📊 **Shopify** (App development & Customization)            |
 
 
-
-</div> -->
 [![divider_twin_serpant](https://raw.githubusercontent.com/with-mahadi/readme-ux-kit/refs/heads/main/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/with-mahadi)
 
 ### 📊 My GitHub Stats
