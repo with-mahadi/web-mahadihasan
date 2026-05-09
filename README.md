@@ -202,6 +202,10 @@ I’m open to collaborating on:
   <img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-0072B1?style=for-the-badge&logo=GitHub-Pages&logoColor=white">
 </a>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100" alt="Profile footer wave"/>
+</p>
+
 <!--Animated Line:
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
