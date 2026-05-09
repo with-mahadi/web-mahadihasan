@@ -14,6 +14,7 @@ I'm a full-stack developer currently working as a Software Engineer at **$\color
 
 <!-- and right now, I'm really enjoying learning **Python**, **PostgreSQL** and **Prisma** to expand my skill set. -->
 
+[![divider_twin_serpant](https://raw.githubusercontent.com/with-mahadi/readme-ux-kit/refs/heads/main/assets/dividers/animated/lines/divider_neon_center_dot.svg)](https://github.com/with-mahadi)
 ### 🌱 **What I'm Currently Up To**
 <!-- divider  -->
 [![divider_twin_serpant](https://raw.githubusercontent.com/with-mahadi/readme-ux-kit/refs/heads/main/assets/dividers/animated/lines/divider_neon_center_dot.svg)](https://github.com/with-mahadi)
