@@ -44,48 +44,6 @@ I'm a full-stack developer currently working as a Software Engineer at **$\color
 | **Expertise**       | 🧩 **Problem Solving** • 🚀 **Quick Learner** • 📊 **Shopify** (App development & Customization)            |
 
 
-###
-<!---contact section-->
-<h2 align="left">Contact With Me</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/mahadihasan7" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/mehedi.hasan.0222/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-  <a href="https://discord.com/mahadi_hasan_1" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://x.com/MeheDiH96935415" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-</div>
-
-###
-<!---Github start-->
-<!-- <h2 align="left">My GitHub Stats</h2>
-
-###
-
-<div align="left">
-  <img src="https://with-mahadi-streak-stats.vercel.app?user==with-mahadi&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="170" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=with-mahadi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2&title_color=D3D3D3&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" height="170" alt="languages graph"  /> <br/>
-  
- <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=with-mahadi&show_icons=true&theme=dark&title_color=D3D3D3&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"
-    media="(prefers-color-scheme: title_color=D3D3D3&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=with-mahadi&show_icons=true&title_color=D3D3D3&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=with-mahadi&show_icons=true&title_color=D3D3D3&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" />
-</picture>
 
 </div> -->
 [![divider_twin_serpant](https://raw.githubusercontent.com/with-mahadi/readme-ux-kit/refs/heads/main/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/with-mahadi)
