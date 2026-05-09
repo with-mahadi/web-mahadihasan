@@ -91,7 +91,8 @@ I'm a full-stack developer currently working as a Software Engineer at **$\color
 [![divider_twin_serpant](https://raw.githubusercontent.com/with-mahadi/readme-ux-kit/refs/heads/main/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/with-mahadi)
 
 ### 📊 My GitHub Stats
-
+<!-- Divider -->
+[![divider_twin_serpant](https://github.com/with-mahadi/readme-ux-kit/raw/refs/heads/main/assets/dividers/animated/lines/divider_neon_center_dot.svg)](https://github.com/with-mahadi)
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=with-mahadi&theme=radical" alt="Streak" />
@@ -101,7 +102,9 @@ I'm a full-stack developer currently working as a Software Engineer at **$\color
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=with-mahadi&theme=radical" alt="GitHub profile contribution summary" />
 </p>
 
-<h2>📊 Statistics</h2>
+###📊 Statistics
+<!-- Divider  -->
+[![divider_twin_serpant](https://github.com/with-mahadi/readme-ux-kit/raw/refs/heads/main/assets/dividers/animated/lines/divider_neon_center_dot.svg)](https://github.com/with-mahadi)
 
 ![Mahadi's Graph](https://github-readme-activity-graph.vercel.app/graph?username=with-mahadi&custom_title=Mahadi's%20GitHub%20Activity%20Graph&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&area_color=00abf0&area=true&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph)
 
