@@ -212,7 +212,10 @@ I’m open to collaborating on:
   <img alt="HackerRank" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=HackerRank&logoColor=white">
 </a>
 <a href="https://dev-mahadi-hasan.vercel.app/" target="_blank">
-  <img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-0072B1?style=for-the-badge&logo=GitHub-Pages&logoColor=white">
+  <img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-0072B1?style=for-the-badge&logo=google-chrome&logoColor=white">
+</a>
+<a href="https://dev-mahadi-hasan.vercel.app/" target="_blank">
+  <img alt="Facebook" src="https://img.shields.io/badge/-Facebook-0072B1?style=for-the-badge&logo=facebook&logoColor=white">
 </a>
 
 <p align="center">
