@@ -22,7 +22,7 @@ I specialize in crafting dynamic, scalable, and user-friendly applications using
   <a href="https://codeforces.com/profile/dev.mahadi%20hasan" target="_blank">
     <img alt="HackerRank" src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=HackerRank&logoColor=white">
   </a>
-   <a href="https://www.leetcode.com/web-mahadihasan" target="_blank">
+   <a href="https://www.leetcode.com/with-mahadi" target="_blank">
     <img alt="HackerRank" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=HackerRank&logoColor=white">
   </a>
 <a href="https://dev-mahadi-hasan.vercel.app/" target="_blank">
@@ -31,11 +31,11 @@ I specialize in crafting dynamic, scalable, and user-friendly applications using
   
 <h2></h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=web-mahadihasan&label=Profile%20views&color=0e75b6&style=flat" alt="web-mahadihasan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=with-mahadi&label=Profile%20views&color=0e75b6&style=flat" alt="with-mahadi" /> </p>
 
 
 #### - 🌱 I’m currently Exploring **Typescript & Python & MySql**
-#### - 👨‍💻 All of my projects are available at [https://github.com/web-mahadihasan](https://github.com/web-mahadihasan)
+#### - 👨‍💻 All of my projects are available at [https://github.com/with-mahadi](https://github.com/with-mahadi)
 #### - 💬 Ask me about **JavaScript, React, NextJs, Tailwind, MongoDB**
 #### - 🎯 Goals: Become a full-stack developer and build web apps that solve real problems.
 #### - 📫 How to reach me **mehedihasanmilu7@gmail.com**
@@ -146,19 +146,19 @@ I specialize in crafting dynamic, scalable, and user-friendly applications using
 ###
 
 <div align="left">
-  <img src="https://web-mahadihasan-streak-stats.vercel.app?user==web-mahadihasan&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="170" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=web-mahadihasan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2&title_color=D3D3D3&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" height="170" alt="languages graph"  /> <br/>
+  <img src="https://with-mahadi-streak-stats.vercel.app?user==with-mahadi&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="170" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=with-mahadi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2&title_color=D3D3D3&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" height="170" alt="languages graph"  /> <br/>
   
  <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=web-mahadihasan&show_icons=true&theme=dark&title_color=D3D3D3&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"
+    srcset="https://github-readme-stats.vercel.app/api?username=with-mahadi&show_icons=true&theme=dark&title_color=D3D3D3&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"
     media="(prefers-color-scheme: title_color=D3D3D3&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=web-mahadihasan&show_icons=true&title_color=D3D3D3&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"
+    srcset="https://github-readme-stats.vercel.app/api?username=with-mahadi&show_icons=true&title_color=D3D3D3&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=web-mahadihasan&show_icons=true&title_color=D3D3D3&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" />
+  <img src="https://github-readme-stats.vercel.app/api?username=with-mahadi&show_icons=true&title_color=D3D3D3&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" />
 </picture>
 
 </div>
@@ -169,14 +169,14 @@ I specialize in crafting dynamic, scalable, and user-friendly applications using
 </br>
 <h2>Activity Graph</h2>
 
-![Mahadi's Graph](https://github-readme-activity-graph.vercel.app/graph?username=web-mahadihasan&custom_title=Mahadi's%20GitHub%20Activity%20Graph&bg_color=0d1017&color=e8edf3&line=e8edf3&point=e8edf3&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Mahadi's Graph](https://github-readme-activity-graph.vercel.app/graph?username=with-mahadi&custom_title=Mahadi's%20GitHub%20Activity%20Graph&bg_color=0d1017&color=e8edf3&line=e8edf3&point=e8edf3&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ![Static Badge](https://img.shields.io/badge/Thanks%20for%20visiting!-05122A)
 ![Static Badge](https://img.shields.io/badge/Star%20%E2%AD%90%20some%20repositories%20you%20find%20helpful!%20-05122A)
-![GitHub followers](https://img.shields.io/github/followers/web-mahadihasan?style=flat&logo=github&color=05122A&labelColor=05122A)
-![Profile Views](https://komarev.com/ghpvc/?username=web-mahadihasan&style=flat&labelolor=05122A&color=05122A)
+![GitHub followers](https://img.shields.io/github/followers/with-mahadi?style=flat&logo=github&color=05122A&labelColor=05122A)
+![Profile Views](https://komarev.com/ghpvc/?username=with-mahadi&style=flat&labelolor=05122A&color=05122A)
 
 
 <!--Animated Line:
