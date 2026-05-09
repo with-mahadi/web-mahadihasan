@@ -14,7 +14,9 @@ I'm a full-stack developer currently working as a Software Engineer at **$\color
 
 <!-- and right now, I'm really enjoying learning **Python**, **PostgreSQL** and **Prisma** to expand my skill set. -->
 
-## 🌱 **What I'm Currently Up To**
+### 🌱 **What I'm Currently Up To**
+<!-- divider  -->
+[![divider_twin_serpant](https://raw.githubusercontent.com/with-mahadi/readme-ux-kit/refs/heads/main/assets/dividers/animated/lines/divider_neon_center_dot.svg)](https://github.com/with-mahadi)
 
 - 🔥 Learning **Full Stack development** at **Programming Hero Level Two**.
 - 📚 I'm currently exploring **Python**, **PostgreSQL** and **Prisma** to expand my backend skill set.
@@ -22,24 +24,6 @@ I'm a full-stack developer currently working as a Software Engineer at **$\color
 - 🎯 Goal: Become a Full-Stack Developer by 2026
 - 👀 Actively seeking my next adventure as a Full Stack developer!
 
----
-
-<p>🚀 Let’s connect, collaborate, and innovate together! 🚀👨‍💻</p>
-<a href="https://www.linkedin.com/in/mahadihasan7/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-   <a href="https://www.hackerrank.com/@mehedihasanmilu7" target="_blank">
-    <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
-  </a>
-  <a href="https://codeforces.com/profile/dev.mahadi%20hasan" target="_blank">
-    <img alt="HackerRank" src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=HackerRank&logoColor=white">
-  </a>
-   <a href="https://www.leetcode.com/with-mahadi" target="_blank">
-    <img alt="HackerRank" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=HackerRank&logoColor=white">
-  </a>
-<a href="https://dev-mahadi-hasan.vercel.app/" target="_blank">
-  <img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-0072B1?style=for-the-badge&logo=GitHub-Pages&logoColor=white">
-</a>
 
 <!-- https://img.shields.io/badge/Shopify%20App-E10098?logo=shopify&logoColor=white -->
 
@@ -139,6 +123,22 @@ I'm a full-stack developer currently working as a Software Engineer at **$\color
 ![GitHub followers](https://img.shields.io/github/followers/with-mahadi?style=flat&logo=github&color=05122A&labelColor=05122A)
 ![Profile Views](https://komarev.com/ghpvc/?username=with-mahadi&style=flat&labelolor=05122A&color=05122A)
 
+<p>🚀 Let’s connect, collaborate, and innovate together! 🚀👨‍💻</p>
+<a href="https://www.linkedin.com/in/mahadihasan7/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+   <a href="https://www.hackerrank.com/@mehedihasanmilu7" target="_blank">
+    <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
+  </a>
+  <a href="https://codeforces.com/profile/dev.mahadi%20hasan" target="_blank">
+    <img alt="HackerRank" src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=HackerRank&logoColor=white">
+  </a>
+   <a href="https://www.leetcode.com/with-mahadi" target="_blank">
+    <img alt="HackerRank" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=HackerRank&logoColor=white">
+  </a>
+<a href="https://dev-mahadi-hasan.vercel.app/" target="_blank">
+  <img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-0072B1?style=for-the-badge&logo=GitHub-Pages&logoColor=white">
+</a>
 
 <!--Animated Line:
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
