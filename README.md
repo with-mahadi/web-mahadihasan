@@ -57,7 +57,7 @@ I'm a full-stack developer currently working as a Software Engineer at **$\color
 
 ### 🛠️ **Tech Stack** *(Evolving)*
 <!-- divider  -->
-[![divider_twin_serpant](https://github.com/with-mahadi/readme-ux-kit/raw/refs/heads/main/assets/dividers/animated/lines/divider_breathing_line.svg)](https://github.com/with-mahadi)
+[![divider_twin_serpant](https://raw.githubusercontent.com/with-mahadi/readme-ux-kit/refs/heads/main/assets/dividers/animated/lines/divider_neon_center_dot.svg)](https://github.com/with-mahadi)
 
 | **Category**       | **Skills/Tools**                                                                                     |
 |---------------------|-----------------------------------------------------------------------------------------------------|
