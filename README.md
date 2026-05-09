@@ -157,17 +157,17 @@ I’m open to collaborating on:
 <br>
 
 <a href="https://dev-mahadi-hasan.vercel.app">
-  <img src="https://img.shields.io/badge/Personal%20Website-hirademami.github.io-36BCF7?style=for-the-badge&logo=google-chrome" alt="Personal website link">
+  <img src="https://img.shields.io/badge/Personal%20Website-dev-mahadi-hasan.vercel.app-7CF03D?style=for-the-badge&logo=google-chrome" alt="Personal website link">
 </a>
 <br><br>
 
 <a href="mailto:mehedihasanmilu7@gmail.com">
-  <img src="https://img.shields.io/badge/email-hirad.alagha@outlook.com-red?style=for-the-badge&logo=gmail" alt="Email contact link">
+  <img src="https://img.shields.io/badge/email-mehedihasanmilu7@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email contact link">
 </a>
 <br><br>
 
 <a href="https://www.linkedin.com/in/withmahadi/">
-  <img src="https://img.shields.io/badge/linkedin-hirad--alagha-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn profile link">
+  <img src="https://img.shields.io/badge/linkedin-withmahadi-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn profile link">
 </a>
 
 </td>
