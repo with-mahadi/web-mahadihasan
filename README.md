@@ -1,7 +1,7 @@
 <p align="center"><img width="100%" height="280px" src="./download.png"></p>
 <!--<h1 align="center" style="font-size: 50px;">Hi! 👋 I'm Mahadi Hasan</h1>-->
 <a href="https://dev-mahadi-hasan.vercel.app/">
-  <img width="100%" src="./assets/img/portal_main.svg" alt="Mahadi hasan main portal" />
+  <img width="100%" src="./assets/img/portal_mains.svg" alt="Mahadi hasan main portal" />
 </a>
 
 [![divider_twin_serpant](https://github.com/with-mahadi/readme-ux-kit/raw/refs/heads/main/assets/dividers/animated/unique_effects/divider_data_capsul.svg)](https://github.com/with-mahadi)
