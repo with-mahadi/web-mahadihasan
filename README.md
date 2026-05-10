@@ -1,5 +1,8 @@
 <p align="center"><img width="100%" height="280px" src="./download.png"></p>
 <!--<h1 align="center" style="font-size: 50px;">Hi! 👋 I'm Mahadi Hasan</h1>-->
+<a href="https://dev-mahadi-hasan.vercel.app/">
+  <img width="82%" src="./assets/img/portal_main.svg" alt="Mahadi hasan main portal" />
+</a>
 
 [![divider_twin_serpant](https://github.com/with-mahadi/readme-ux-kit/raw/refs/heads/main/assets/dividers/animated/unique_effects/divider_data_capsul.svg)](https://github.com/with-mahadi)
 
@@ -78,7 +81,7 @@ I'm a full-stack developer currently working as a Software Engineer at **$\color
 
 <!-- Collaboration part start  -->
 
-[![divider_twin_serpant](https://github.com/with-mahadi/readme-ux-kit/raw/refs/heads/main/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/hiradEmami)
+[![divider_twin_serpant](https://github.com/with-mahadi/readme-ux-kit/raw/refs/heads/main/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/with-mahadi)
 
 <table width="100%" border="0" cellspacing="10" cellpadding="0">
 <tr>
@@ -131,7 +134,7 @@ I’m open to collaborating on:
 <!-- Or contact with  -->
 <!-- Divider  -->
 
-[![divider_twin_serpant](https://github.com/with-mahadi/readme-ux-kit/raw/refs/heads/main/assets/dividers/static/divider_center_diamond.svg)](https://github.com/hiradEmami)
+[![divider_twin_serpant](https://github.com/with-mahadi/readme-ux-kit/raw/refs/heads/main/assets/dividers/static/divider_center_diamond.svg)](https://github.com/with-mahadi)
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mahadihasan7"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" /></a>&nbsp;&nbsp;&nbsp;
@@ -145,7 +148,7 @@ I’m open to collaborating on:
 </tr>
 </table>
 
-[![divider_twin_serpant](https://github.com/with-mahadi/readme-ux-kit/raw/refs/heads/main/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/hiradEmami)
+[![divider_twin_serpant](https://github.com/with-mahadi/readme-ux-kit/raw/refs/heads/main/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/with-mahadi)
 <!-- Collaboration part start  -->
 
 <!-- <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> -->
