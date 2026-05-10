@@ -73,7 +73,7 @@
     <text x="50" y="19" text-anchor="middle" class="chip">COFFEE</text>
   </g>
   <g transform="translate(610 282)">
-    <rect width="90" height="28" rx="14" fill="#0f172a" stroke="#22d3ee" stroke-opacity="0.45"/>
+    <rect width="180" height="28" rx="14" fill="#0f172a" stroke="#22d3ee" stroke-opacity="0.45"/>
     <text x="45" y="19" text-anchor="middle" class="chip">INNOVATION</text>
   </g>
   <g transform="translate(725 282)">
