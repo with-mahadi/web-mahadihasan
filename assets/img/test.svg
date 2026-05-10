@@ -1,0 +1,256 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="1200" height="400">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#050A12"/>
+      <stop offset="52%" stop-color="#07111C"/>
+      <stop offset="100%" stop-color="#040812"/>
+    </linearGradient>
+
+    <radialGradient id="bgGlow" cx="50%" cy="38%" r="85%">
+      <stop offset="0%" stop-color="#12264A" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#07111C" stop-opacity="0"/>
+    </radialGradient>
+
+    <pattern id="grid" width="72" height="72" patternUnits="userSpaceOnUse">
+      <path d="M72 0H0V72" fill="none" stroke="#D7E4FF" stroke-opacity="0.026" stroke-width="1"/>
+    </pattern>
+
+    <linearGradient id="fillFrontend" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#06131E"/>
+      <stop offset="100%" stop-color="#081A29"/>
+    </linearGradient>
+
+    <linearGradient id="fillBackend" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#071611"/>
+      <stop offset="100%" stop-color="#092018"/>
+    </linearGradient>
+
+    <linearGradient id="fillShopify" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#130C1D"/>
+      <stop offset="100%" stop-color="#181128"/>
+    </linearGradient>
+
+    <filter id="shadow" x="-25%" y="-25%" width="150%" height="150%">
+      <feDropShadow dx="0" dy="6" stdDeviation="10" flood-color="#000814" flood-opacity="0.65"/>
+    </filter>
+
+    <filter id="glowCyan" x="-70%" y="-70%" width="240%" height="240%">
+      <feGaussianBlur stdDeviation="4.5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <filter id="glowGreen" x="-70%" y="-70%" width="240%" height="240%">
+      <feGaussianBlur stdDeviation="4.5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <filter id="glowPurple" x="-70%" y="-70%" width="240%" height="240%">
+      <feGaussianBlur stdDeviation="4.5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <style>
+      .label { font: 700 13px Inter, Segoe UI, Arial, sans-serif; letter-spacing: 7px; }
+      .title { font: 800 22px Inter, Segoe UI, Arial, sans-serif; letter-spacing: .4px; }
+      .copy { font: 400 12px Inter, Segoe UI, Arial, sans-serif; }
+      .status { font: 700 11px Inter, Segoe UI, Arial, sans-serif; letter-spacing: 1.1px; }
+      .tagText { font: 700 11px Inter, Segoe UI, Arial, sans-serif; letter-spacing: .5px; }
+      .pulse { animation: pulse 3.3s ease-in-out infinite; }
+      .softPulse { animation: softPulse 4.2s ease-in-out infinite; }
+      .borderRun { animation: borderRun 7s linear infinite; }
+      @keyframes pulse { 0%,100% { opacity: .55; } 50% { opacity: .95; } }
+      @keyframes softPulse { 0%,100% { opacity: .35; } 50% { opacity: .75; } }
+      @keyframes borderRun { from { stroke-dashoffset: 0; } to { stroke-dashoffset: -950; } }
+    </style>
+  </defs>
+
+  <rect width="1200" height="400" fill="url(#bg)"/>
+  <rect width="1200" height="400" fill="url(#bgGlow)"/>
+  <rect width="1200" height="400" fill="url(#grid)"/>
+  <rect x="18" y="18" width="1164" height="364" rx="18" fill="none" stroke="#FFFFFF" stroke-opacity=".05"/>
+
+  <!-- FRONTEND CARD -->
+  <g filter="url(#shadow)">
+    <rect x="28" y="50" width="368" height="300" rx="18" fill="url(#fillFrontend)"/>
+    <rect x="28" y="50" width="368" height="300" rx="18" fill="none" stroke="#35C8F6" stroke-opacity=".18"/>
+    <rect x="29.5" y="51.5" width="365" height="297" rx="16.5" fill="none" stroke="#35C8F6" stroke-opacity=".36" stroke-width="1.2" stroke-dasharray="170 980" class="borderRun"/>
+
+    <line x1="62" y1="68" x2="129" y2="68" stroke="#35C8F6" stroke-width="2" stroke-linecap="round" opacity=".88"/>
+    <line x1="295" y1="68" x2="362" y2="68" stroke="#35C8F6" stroke-width="2" stroke-linecap="round" opacity=".88"/>
+    <line x1="62" y1="332" x2="129" y2="332" stroke="#35C8F6" stroke-width="2" stroke-linecap="round" opacity=".45"/>
+    <line x1="295" y1="332" x2="362" y2="332" stroke="#35C8F6" stroke-width="2" stroke-linecap="round" opacity=".45"/>
+    <path d="M48 88 L48 68 L72 68" fill="none" stroke="#35C8F6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" class="pulse"/>
+    <path d="M376 88 L376 68 L352 68" fill="none" stroke="#35C8F6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" class="pulse"/>
+    <path d="M48 312 L48 332 L72 332" fill="none" stroke="#35C8F6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" class="softPulse"/>
+    <path d="M376 312 L376 332 L352 332" fill="none" stroke="#35C8F6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" class="softPulse"/>
+    <circle cx="46" cy="332" r="3.3" fill="#35C8F6" opacity=".9"/>
+    <circle cx="378" cy="332" r="3.3" fill="#8EE7FF" opacity=".7"/>
+
+    <text x="212" y="80" class="label" text-anchor="middle" fill="#35C8F6">FRONTEND STUDIO</text>
+    <line x1="72" y1="100" x2="352" y2="100" stroke="#35C8F6" stroke-opacity=".12"/>
+
+    <!-- smaller circle + icon -->
+    <g transform="translate(133 214) scale(.72)">
+      <circle r="68" fill="none" stroke="#35C8F6" stroke-opacity=".11" stroke-width="2"/>
+      <circle r="56" fill="none" stroke="#35C8F6" stroke-opacity=".68" stroke-width="4" filter="url(#glowCyan)"/>
+      <circle r="42" fill="none" stroke="#35C8F6" stroke-opacity=".15" stroke-width="1.5"/>
+      <line x1="-72" y1="0" x2="-54" y2="0" stroke="#35C8F6" stroke-width="3" stroke-linecap="round"/>
+      <line x1="72" y1="0" x2="54" y2="0" stroke="#35C8F6" stroke-width="3" stroke-linecap="round"/>
+      <line x1="0" y1="-72" x2="0" y2="-54" stroke="#35C8F6" stroke-width="3" stroke-linecap="round"/>
+      <line x1="0" y1="72" x2="0" y2="54" stroke="#35C8F6" stroke-width="3" stroke-linecap="round" opacity=".55"/>
+
+      <g transform="scale(.62)">
+        <rect x="-42" y="-43" width="84" height="90" rx="12" fill="none" stroke="#35C8F6" stroke-width="4"/>
+        <line x1="-42" y1="-18" x2="42" y2="-18" stroke="#35C8F6" stroke-width="3" opacity=".8"/>
+        <circle cx="-25" cy="-31" r="3.6" fill="#8EE7FF"/>
+        <circle cx="-12" cy="-31" r="3.6" fill="#8EE7FF"/>
+        <circle cx="1" cy="-31" r="3.6" fill="#8EE7FF"/>
+        <path d="M-14 15 L-33 31 L-14 47" fill="none" stroke="#35C8F6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M14 15 L33 31 L14 47" fill="none" stroke="#35C8F6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+        <line x1="2" y1="14" x2="-6" y2="48" stroke="#35C8F6" stroke-width="5" stroke-linecap="round"/>
+      </g>
+    </g>
+
+    <text x="216" y="168" class="title" fill="#EEF4FA">FRONTEND DEV</text>
+    <line x1="216" y1="182" x2="360" y2="182" stroke="#35C8F6" stroke-opacity=".12"/>
+    <text x="216" y="218" class="copy" fill="#A6C7D5">Pixel-perfect, blazing-fast</text>
+    <text x="216" y="247" class="copy" fill="#A6C7D5">UIs with React &amp; Next.js.</text>
+    <circle cx="225" cy="290" r="6.5" fill="#35C8F6" filter="url(#glowCyan)"/>
+    <text x="244" y="294" class="status" fill="#35C8F6">ACTIVE</text>
+
+    <rect x="216" y="320" width="58" height="33" rx="10" fill="#FFFFFF" fill-opacity=".012" stroke="#35C8F6" stroke-opacity=".72"/>
+    <text x="245" y="341" class="tagText" text-anchor="middle" fill="#35C8F6">REACT</text>
+    <rect x="286" y="320" width="72" height="33" rx="10" fill="#FFFFFF" fill-opacity=".012" stroke="#35C8F6" stroke-opacity=".72"/>
+    <text x="322" y="341" class="tagText" text-anchor="middle" fill="#35C8F6">NEXT.JS</text>
+    <rect x="370" y="320" width="46" height="33" rx="10" fill="#FFFFFF" fill-opacity=".012" stroke="#35C8F6" stroke-opacity=".72"/>
+    <text x="393" y="341" class="tagText" text-anchor="middle" fill="#35C8F6">UI</text>
+  </g>
+
+  <!-- BACKEND CARD -->
+  <g filter="url(#shadow)">
+    <rect x="416" y="50" width="368" height="300" rx="18" fill="url(#fillBackend)"/>
+    <rect x="416" y="50" width="368" height="300" rx="18" fill="none" stroke="#52D98E" stroke-opacity=".18"/>
+    <rect x="417.5" y="51.5" width="365" height="297" rx="16.5" fill="none" stroke="#52D98E" stroke-opacity=".36" stroke-width="1.2" stroke-dasharray="170 980" class="borderRun"/>
+
+    <line x1="450" y1="68" x2="517" y2="68" stroke="#52D98E" stroke-width="2" stroke-linecap="round" opacity=".88"/>
+    <line x1="683" y1="68" x2="750" y2="68" stroke="#52D98E" stroke-width="2" stroke-linecap="round" opacity=".88"/>
+    <line x1="450" y1="332" x2="517" y2="332" stroke="#52D98E" stroke-width="2" stroke-linecap="round" opacity=".45"/>
+    <line x1="683" y1="332" x2="750" y2="332" stroke="#52D98E" stroke-width="2" stroke-linecap="round" opacity=".45"/>
+    <path d="M436 88 L436 68 L460 68" fill="none" stroke="#52D98E" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" class="pulse"/>
+    <path d="M764 88 L764 68 L740 68" fill="none" stroke="#52D98E" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" class="pulse"/>
+    <path d="M436 312 L436 332 L460 332" fill="none" stroke="#52D98E" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" class="softPulse"/>
+    <path d="M764 312 L764 332 L740 332" fill="none" stroke="#52D98E" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" class="softPulse"/>
+    <circle cx="434" cy="332" r="3.3" fill="#52D98E" opacity=".9"/>
+    <circle cx="766" cy="332" r="3.3" fill="#A4F7C5" opacity=".7"/>
+
+    <text x="600" y="80" class="label" text-anchor="middle" fill="#52D98E">BACKEND ENGINE</text>
+    <line x1="460" y1="100" x2="740" y2="100" stroke="#52D98E" stroke-opacity=".12"/>
+
+    <!-- smaller circle + icon -->
+    <g transform="translate(521 214) scale(.72)">
+      <circle r="68" fill="none" stroke="#52D98E" stroke-opacity=".11" stroke-width="2"/>
+      <circle r="56" fill="none" stroke="#52D98E" stroke-opacity=".68" stroke-width="4" filter="url(#glowGreen)"/>
+      <circle r="42" fill="none" stroke="#52D98E" stroke-opacity=".15" stroke-width="1.5"/>
+      <line x1="-72" y1="0" x2="-54" y2="0" stroke="#52D98E" stroke-width="3" stroke-linecap="round"/>
+      <line x1="72" y1="0" x2="54" y2="0" stroke="#52D98E" stroke-width="3" stroke-linecap="round"/>
+      <line x1="0" y1="-72" x2="0" y2="-54" stroke="#52D98E" stroke-width="3" stroke-linecap="round"/>
+      <line x1="0" y1="72" x2="0" y2="54" stroke="#52D98E" stroke-width="3" stroke-linecap="round" opacity=".55"/>
+
+      <g transform="scale(.62)">
+        <g transform="translate(-18 -16)">
+          <rect x="-36" y="-32" width="72" height="26" rx="9" fill="none" stroke="#52D98E" stroke-width="4"/>
+          <rect x="-36" y="2" width="72" height="26" rx="9" fill="none" stroke="#52D98E" stroke-width="4"/>
+          <rect x="-36" y="36" width="72" height="26" rx="9" fill="none" stroke="#52D98E" stroke-width="4"/>
+          <circle cx="-18" cy="-19" r="3.7" fill="#A4F7C5"/>
+          <circle cx="-4" cy="-19" r="3.7" fill="#A4F7C5" opacity=".8"/>
+          <circle cx="-18" cy="15" r="3.7" fill="#A4F7C5"/>
+          <circle cx="-4" cy="15" r="3.7" fill="#A4F7C5" opacity=".8"/>
+          <circle cx="-18" cy="49" r="3.7" fill="#A4F7C5"/>
+          <circle cx="-4" cy="49" r="3.7" fill="#A4F7C5" opacity=".8"/>
+        </g>
+        <g transform="translate(39 17)">
+          <ellipse cx="0" cy="-31" rx="25" ry="10" fill="none" stroke="#52D98E" stroke-width="4"/>
+          <path d="M-25 -31 L-25 20 C-25 33 25 33 25 20 L25 -31" fill="none" stroke="#52D98E" stroke-width="4"/>
+          <ellipse cx="0" cy="20" rx="25" ry="10" fill="none" stroke="#52D98E" stroke-width="4"/>
+        </g>
+      </g>
+    </g>
+
+    <text x="604" y="168" class="title" fill="#EEF4FA">BACKEND DEV</text>
+    <line x1="604" y1="182" x2="748" y2="182" stroke="#52D98E" stroke-opacity=".12"/>
+    <text x="604" y="218" class="copy" fill="#A6D4BC">Scalable APIs, REST &amp; GraphQL</text>
+    <text x="604" y="247" class="copy" fill="#A6D4BC">powered by Node.js &amp; MongoDB.</text>
+    <circle cx="613" cy="290" r="6.5" fill="#52D98E" filter="url(#glowGreen)"/>
+    <text x="632" y="294" class="status" fill="#52D98E">RUNNING</text>
+
+    <rect x="604" y="320" width="52" height="33" rx="10" fill="#FFFFFF" fill-opacity=".012" stroke="#52D98E" stroke-opacity=".72"/>
+    <text x="630" y="341" class="tagText" text-anchor="middle" fill="#52D98E">NODE</text>
+    <rect x="668" y="320" width="48" height="33" rx="10" fill="#FFFFFF" fill-opacity=".012" stroke="#52D98E" stroke-opacity=".72"/>
+    <text x="692" y="341" class="tagText" text-anchor="middle" fill="#52D98E">API</text>
+    <rect x="728" y="320" width="42" height="33" rx="10" fill="#FFFFFF" fill-opacity=".012" stroke="#52D98E" stroke-opacity=".72"/>
+    <text x="749" y="341" class="tagText" text-anchor="middle" fill="#52D98E">DB</text>
+  </g>
+
+  <!-- SHOPIFY CARD -->
+  <g filter="url(#shadow)">
+    <rect x="804" y="50" width="368" height="300" rx="18" fill="url(#fillShopify)"/>
+    <rect x="804" y="50" width="368" height="300" rx="18" fill="none" stroke="#B486FF" stroke-opacity=".18"/>
+    <rect x="805.5" y="51.5" width="365" height="297" rx="16.5" fill="none" stroke="#B486FF" stroke-opacity=".36" stroke-width="1.2" stroke-dasharray="170 980" class="borderRun"/>
+
+    <line x1="838" y1="68" x2="905" y2="68" stroke="#B486FF" stroke-width="2" stroke-linecap="round" opacity=".88"/>
+    <line x1="1071" y1="68" x2="1138" y2="68" stroke="#B486FF" stroke-width="2" stroke-linecap="round" opacity=".88"/>
+    <line x1="838" y1="332" x2="905" y2="332" stroke="#B486FF" stroke-width="2" stroke-linecap="round" opacity=".45"/>
+    <line x1="1071" y1="332" x2="1138" y2="332" stroke="#B486FF" stroke-width="2" stroke-linecap="round" opacity=".45"/>
+    <path d="M824 88 L824 68 L848 68" fill="none" stroke="#B486FF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" class="pulse"/>
+    <path d="M1152 88 L1152 68 L1128 68" fill="none" stroke="#B486FF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" class="pulse"/>
+    <path d="M824 312 L824 332 L848 332" fill="none" stroke="#B486FF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" class="softPulse"/>
+    <path d="M1152 312 L1152 332 L1128 332" fill="none" stroke="#B486FF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" class="softPulse"/>
+    <circle cx="822" cy="332" r="3.3" fill="#B486FF" opacity=".9"/>
+    <circle cx="1154" cy="332" r="3.3" fill="#DEC7FF" opacity=".7"/>
+
+    <text x="988" y="80" class="label" text-anchor="middle" fill="#B486FF">SHOPIFY FORGE</text>
+    <line x1="848" y1="100" x2="1128" y2="100" stroke="#B486FF" stroke-opacity=".12"/>
+
+    <!-- smaller circle + clean shopify icon -->
+    <g transform="translate(909 214) scale(.72)">
+      <circle r="68" fill="none" stroke="#B486FF" stroke-opacity=".11" stroke-width="2"/>
+      <circle r="56" fill="none" stroke="#B486FF" stroke-opacity=".68" stroke-width="4" filter="url(#glowPurple)"/>
+      <circle r="42" fill="none" stroke="#B486FF" stroke-opacity=".15" stroke-width="1.5"/>
+      <line x1="-72" y1="0" x2="-54" y2="0" stroke="#B486FF" stroke-width="3" stroke-linecap="round"/>
+      <line x1="72" y1="0" x2="54" y2="0" stroke="#B486FF" stroke-width="3" stroke-linecap="round"/>
+      <line x1="0" y1="-72" x2="0" y2="-54" stroke="#B486FF" stroke-width="3" stroke-linecap="round"/>
+      <line x1="0" y1="72" x2="0" y2="54" stroke="#B486FF" stroke-width="3" stroke-linecap="round" opacity=".55"/>
+
+      <g transform="scale(.62)">
+        <!-- Actual Shopify logo mark -->
+        <g transform="translate(-44 -36) scale(3)">
+          <path d="M15.337 23.979l7.216-1.561s-2.604-17.613-2.625-17.73c-.018-.116-.114-.192-.211-.192s-1.929-.136-1.929-.136-1.275-1.274-1.439-1.411c-.045-.037-.075-.057-.121-.074l-.914 21.104h.023zM11.71 11.305s-.81-.424-1.774-.424c-1.447 0-1.504.906-1.504 1.141 0 1.232 3.24 1.715 3.24 4.629 0 2.295-1.44 3.76-3.406 3.76-2.354 0-3.54-1.465-3.54-1.465l.646-2.086s1.245 1.066 2.28 1.066c.675 0 .975-.545.975-.932 0-1.619-2.654-1.694-2.654-4.359-.034-2.237 1.571-4.416 4.827-4.416 1.257 0 1.875.361 1.875.361l-.945 2.715-.02.01zM11.17.83c.136 0 .271.038.405.135-.984.465-2.064 1.639-2.508 3.992-.656.213-1.293.405-1.889.578C7.697 3.75 8.951.84 11.17.84V.83zm1.235 2.949v.135c-.754.232-1.583.484-2.394.736.466-1.777 1.333-2.645 2.085-2.971.193.501.309 1.176.309 2.1zm.539-2.234c.694.074 1.141.867 1.429 1.755-.349.114-.735.231-1.158.366v-.252c0-.752-.096-1.371-.271-1.871v.002zm2.992 1.289c-.02 0-.06.021-.078.021s-.289.075-.714.21c-.423-1.233-1.176-2.37-2.508-2.37h-.115C12.135.209 11.669 0 11.265 0 8.159 0 6.675 3.877 6.21 5.846c-1.194.365-2.063.636-2.16.674-.675.213-.694.232-.772.87-.075.462-1.83 14.063-1.83 14.063L15.009 24l.927-21.166z"
+                fill="#B486FF"
+                fill-opacity=".92"/>
+        </g>
+
+        <!-- App grid icon beside Shopify logo -->
+        <g transform="translate(35 15)">
+          <rect x="0" y="-17" width="16" height="16" rx="3.5" fill="#B486FF" fill-opacity=".08" stroke="#B486FF" stroke-width="3"/>
+          <rect x="21" y="-17" width="16" height="16" rx="3.5" fill="#B486FF" fill-opacity=".08" stroke="#B486FF" stroke-width="3"/>
+          <rect x="0" y="5" width="16" height="16" rx="3.5" fill="#B486FF" fill-opacity=".08" stroke="#B486FF" stroke-width="3"/>
+          <rect x="21" y="5" width="16" height="16" rx="3.5" fill="#B486FF" fill-opacity=".08" stroke="#B486FF" stroke-width="3"/>
+        </g>
+      </g>
+    </g>
+
+    <text x="992" y="168" class="title" fill="#EEF4FA">SHOPIFY APPS</text>
+    <line x1="992" y1="182" x2="1136" y2="182" stroke="#B486FF" stroke-opacity=".12"/>
+    <text x="992" y="218" class="copy" fill="#CDBDE8">Custom apps, themes &amp; Admin</text>
+    <text x="992" y="247" class="copy" fill="#CDBDE8">API via GraphQL &amp; Polaris.</text>
+    <circle cx="1001" cy="290" r="6.5" fill="#B486FF" filter="url(#glowPurple)"/>
+    <text x="1020" y="294" class="status" fill="#B486FF">DEPLOYED</text>
+
+    <rect x="992" y="320" width="76" height="33" rx="10" fill="#FFFFFF" fill-opacity=".012" stroke="#B486FF" stroke-opacity=".72"/>
+    <text x="1030" y="341" class="tagText" text-anchor="middle" fill="#B486FF">SHOPIFY</text>
+    <rect x="1080" y="320" width="58" height="33" rx="10" fill="#FFFFFF" fill-opacity=".012" stroke="#B486FF" stroke-opacity=".72"/>
+    <text x="1109" y="341" class="tagText" text-anchor="middle" fill="#B486FF">APPS</text>
+    <rect x="1150" y="320" width="48" height="33" rx="10" fill="#FFFFFF" fill-opacity=".012" stroke="#B486FF" stroke-opacity=".72"/>
+    <text x="1174" y="341" class="tagText" text-anchor="middle" fill="#B486FF">API</text>
+  </g>
+</svg>
